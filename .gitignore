@@ -3,5 +3,7 @@ __pycache__/
 *.exe
 *.dll
 *.env
-vemv/
+venv/
 *.log
+*.jsonc
+*.recipe
