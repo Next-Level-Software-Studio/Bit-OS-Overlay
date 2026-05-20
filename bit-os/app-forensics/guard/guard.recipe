@@ -1,3 +1,0 @@
-install () {
-    ${FILESDIR}/install.py
-}
