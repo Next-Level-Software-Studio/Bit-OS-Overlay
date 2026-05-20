@@ -1,0 +1,1 @@
+https://github.com/Next-Level-Software-Studio/System-Manager.git
